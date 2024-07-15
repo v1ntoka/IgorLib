@@ -1,4 +1,4 @@
-package myzip
+package IgorLib
 
 import "io"
 
